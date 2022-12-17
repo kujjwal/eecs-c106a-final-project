@@ -1,0 +1,1 @@
+python3 go_to_cartesian_pose.py -p 0.748 0.246 0.5 -o 0.0 1.0 0.0 0.0 --linear_speed 0.3 --linear_accel 0.3
